@@ -1,4 +1,4 @@
-# DoSelect2
------------
+# Chat Application
+-------------------
 
-This is the solution of 2nd question i.e Multi chat using Angular JS 
+Multi-chat application with AngularJS
